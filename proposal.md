@@ -1,16 +1,16 @@
-# Project Proposal - Are Other Movies Better or Worse Than Your Favorite Movie?
+# Project Proposal - NBA MVP Classification
 
 #### Question/need:
-* My goal in this project is to use movie data such as budget, length, revenue, MPAA rating (etc.) to determine whether all movies are classified as better or worse than a user input movie. User ratings are subjective, so often we need to 'calibrate' a ranking system with a known movie and then we can use that as the baseline for classification.
+* I will be using historical NBA player data to classify who will be the league MVP. This is important for teams to predict as player bonuses and supermax contracts hinge on winning/having won this award.
 
 
 #### Data Description:
-* I will be using Data from IMDB and possibly grouplens.org to complile all the movie features into one dataset.
-* Features that I will be gathering include budget, length, revenue, MPAA rating, user rating, (etc.)
+* I will be using NBA data that was gathered using an API from RapidAPI.
+* I have gathered over 20 statistical categories for every player in NBA history. There are over 1 million individual data points.
 
 
 #### Tools:
-* This information is being accessed using online datasets with data manipulation/feature engineering using Pandas.
+* I will use pandas to continue with data exploration as well as modeling.
 
 #### MVP Goal:
-* A minimum viable product will be classifying movies into better or worse than a user input rating.
+* A minimum viable product will be classifying an MVP based on a season of work.
