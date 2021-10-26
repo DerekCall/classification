@@ -1,7 +1,7 @@
-# Project Proposal - NBA MVP Classification
+# Project Proposal - NBA ALL-NBA Selection Classification
 
 #### Question/need:
-* I will be using historical NBA player data to classify who will be the league MVP. This is important for teams to predict as player bonuses and supermax contracts hinge on winning/having won this award.
+* I will be using historical NBA player data to classify which players will be selected to an ALL-NBA each year. This is important for teams to predict as player bonuses and supermax contracts hinge on having been selected to one of the ALL-NBA teams.
 
 
 #### Data Description:
@@ -10,7 +10,7 @@
 
 
 #### Tools:
-* I will use pandas to continue with data exploration as well as modeling.
+* I will use Python to continue with data exploration as well as modeling.
 
 #### MVP Goal:
-* A minimum viable product will be classifying an MVP based on a season of work.
+* A minimum viable product will be classifying ALL-NBA level players based on a season of work.
